@@ -343,6 +343,19 @@ a:hover {
   letter-spacing: 0.05em;
 }
 
+/* ---- publications ---- */
+
+.publications-body {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+}
+
+.publications-body a {
+  border-bottom: 1px solid #23272a;
+  padding-bottom: 3px;
+}
+
 /* ---- footer / contact ---- */
 
 .site-footer {
